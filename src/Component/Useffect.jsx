@@ -4,7 +4,7 @@ const Effect = () =>{
     const [num, setNum] = useState(0);
 
     useEffect(()=>{
-        alert("I am clikced");
+        // alert("I am clikced");
 
     })
      
